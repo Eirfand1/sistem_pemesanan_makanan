@@ -6,7 +6,7 @@
 ## Instalasi
 ### 1. Clonse repositoy
 ```
-git clone https://github.com/Eirfand1/sistem-pemesanan-makanan
+git clone https://github.com/Eirfand1/sistem_pemesanan_makanan.git
 
 ```
 ### 2. Install Dependensi express js

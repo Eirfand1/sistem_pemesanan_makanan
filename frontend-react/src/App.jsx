@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import MenuItem from './components/MenuItem';
 import OrderSummary from './components/OrderSummary';
 import CartDrawer from './components/CartDrawer';
-import { getMenu, orderItems } from './services/api.jsx~';
+import { getMenu, orderItems } from './services/api.jsx';
 
 function App() {
 	const [menu, setMenu] = useState([]);

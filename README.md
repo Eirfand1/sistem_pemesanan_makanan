@@ -7,20 +7,16 @@
 ### 1. Clonse repositoy
 ```
 git clone https://github.com/Eirfand1/sistem_pemesanan_makanan.git
-
 ```
 ### 2. Install Dependensi express js
 ```
 cd backend-express
 npm install
-
 ```
 
 ### 3. Jalankan backend express.js
 ```
-
 npm run start
-
 ```
 aplikasi berjalan pada port 3000
 
@@ -28,14 +24,11 @@ aplikasi berjalan pada port 3000
 ```
 cd frontend-react
 npm install
-
 ```
 
 ### 5. Jalankan frontend React.js
 ```
-
 npm run dev
-
 ```
 
 Buka ```http://localhost:5173``` di browser

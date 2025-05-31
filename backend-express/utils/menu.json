@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "cumi hitam",
+        "price": 7000,
+        "type": "food",
+        "image": "http://localhost:3000/cumi-hitam.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Bebek goreng",
+        "price": 4000,
+        "type": "food",
+        "image": "http://localhost:3000/bebek-goreng.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Rica-rica",
+        "price": 5000,
+        "type": "food",
+        "image": "http://localhost:3000/rica-rica.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Kopi hitam",
+        "price": 3000,
+        "type": "beverage",
+        "image": "http://localhost:3000/kopi-hitam.jpg"
+    },
+	{
+		"id": 5,
+		"name" : "Es teh",
+		"price": 2000,
+		"type" : "beverage",
+		"image" : "http://localhost:3000/es-teh.jpg"
+	},
+	{
+        "id": 6,
+        "name": "Kopi Luwak",
+        "price": 50000,
+        "type": "beverage",
+        "image": "http://localhost:3000/kopi-luwak.jpg"
+    },
+	{
+        "id": 7,
+        "name": "Steak Sapi",
+        "price": 40000,
+        "type": "food",
+        "image": "http://localhost:3000/steak-sapi.jpg"
+    },
+	{
+        "id": 8,
+        "name": "Nasi Putih",
+        "price": 2000,
+        "type": "food",
+        "image": "http://localhost:3000/nasi-putih.jpg"
+    }
+]

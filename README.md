@@ -157,3 +157,46 @@ http://localhost:3000/{nama-gambar}.jpg
 * `http://localhost:3000/kopi-luwak.jpg`
 
 ---
+
+## Frontend
+
+### 1. Tampilan Menu Utama 
+![Menu](./doc-img/5.png)
+
+- Daftar makanan bergambar dengan nama dan harga.
+- Tombol **Tambah** atau `+ / -` jika item sudah di keranjang.
+- Keranjang selalu terlihat di bawah.
+
+---
+
+### 2. Tampilan Keranjang Aktif 
+![Menu](./doc-img/4.png)
+
+- Keranjang akan expand jika user klik pada panel warna kuning.
+- Keranjang akan collapse kalau di klik di luar atau panel warna kuning.
+- Menampilkan daftar item, jumlah, dan tombol `+`/`-` untuk menambah/mengurangi jumlah.
+- Hitungan subtotal, pajak, diskon (otomatis jika beli > Rp50.000).
+- Diskon 10% otomatis jika subtotal melebihi Rp50.000.
+- Pajak sebesar 10% dari subtotal.
+- Tombol **Pesan Sekarang** langsung melakukan checkout.
+
+---
+
+### 3. Popup Struk Setelah Checkout 
+![Menu](./doc-img/3.png)
+![Menu](./doc-img/2.png)
+
+- Setelah pelanggan melakukan checkout, muncul popup preview struk.
+- Ada opsi **Download Struk** dan **Close**.
+
+---
+
+### 4. Download Struk Pembayaran 
+![Menu](./doc-img/1.png)
+
+- Menampilkan nama restoran, waktu transaksi, dan daftar item yang dipesan.
+- Mencantumkan kategori item (`food` / `beverage`), harga, dan subtotal.
+- Terdapat perhitungan otomatis pajak dan diskon.
+- Format struk adalah gambar `.png`.
+
+---
